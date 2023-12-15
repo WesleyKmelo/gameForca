@@ -62,4 +62,5 @@ Deixo também meu Linkedin, caso alguem deseje entre em contato:
 <a href="https://www.linkedin.com/in/wesley-camelo-silva/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 Obs: Sugestões tambem podem ser enviadas. Pode criar um *issue* ou me chamar no Linkedin.
+ 
 
