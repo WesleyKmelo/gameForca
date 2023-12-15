@@ -48,3 +48,15 @@ Cabe lembrar que a técnica de *Webscrapping* nem sempre é segura pois ela se b
 
 No caso deste aplicativo , as técnicas aqui demosntradas são usados apenas para fins didáticos.
 
+***
+#### Download 
+Para download deste projeto , utilizando o terminal ou prompt , localize a pasta de destino onde vc quer fazer doanload e se for usuário **Git** e tiver o *[GitCli](https://cli.github.com/)* instalado em sua máquina, basta digitar o comando 
+
+`https://github.com/WesleyKmelo/gameForca.git`
+
+Todo o código será baixado em sua máquina, menos as bibliotecas, que deverão ser baixadas à parte.
+
+Deixo também meu Linkedin, caso alguem deseje entre em contato:
+
+<a href="https://www.linkedin.com/in/wesley-camelo-silva/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
