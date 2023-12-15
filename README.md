@@ -40,11 +40,27 @@ Então, pra utilização dos métodos aqui descritos é necessário baixar antes
 * No pacote ***util*** deste projeto existem duas classes que são responsáveis por buscar um palavra aleatória em um site especifico e retornar um *String* para o método que chamou de duas formas diferentes:
 * A primeira forma é consumindo uma API. Nessa forma existem algumas maneiras de consumir. Aqui foi utilizado as formas mais genéricas
     * *O primeiro método faz uma consulta na API e o retorno dessa consulta deve ser moldado em uma classe especifica, contendo getters e setters com os mesmos atributos que vierem da api. Nesse caso é utilizado a biblioteca GSON.*
-    * *O segundo método de consumir a API, tambem utilizando GSON, é criando o JSONOBJECT e nesse objeto passar o atributo necessário em forma de String.*
+    * *O segundo método de consumir a API, tambem utilizando GSON, é criando o JSONOBJECT e nesse objeto passar o atributo necessário em forma de String não havendo a necessidade de criar uma classe. Isso foi útil aqui pq o código só precisa de um atributo.*
+ 
 
 * A segunda forma foi fazendo uso da técnica de *[WebScrapping](https://pt.wikipedia.org/wiki/Coleta_de_dados_web)*. Para isso foi utilizado a biblioteca *JSOUP* que basicamente busca em um documento html , uma expressão que seja única e que retorne a String desejada.
 ***
 Cabe lembrar que a técnica de *Webscrapping* nem sempre é segura pois ela se baseia em pesquisa por nomes e como os sites estão em constante evolução , pode ser que alguma hora o código possa quebrar.
 
-No caso deste aplicativo , as técnicas aqui demosntradas são usados apenas para fins didáticos.
+No caso deste aplicativo , as técnicas aqui demonstradas são usados apenas para fins didáticos.
+
+***
+#### Download 
+Para download deste projeto , utilizando o terminal ou prompt , localize a pasta de destino onde vc quer fazer doanload e se for usuário **Git** e tiver o *[GitCli](https://cli.github.com/)* instalado em sua máquina, basta digitar o comando 
+
+`https://github.com/WesleyKmelo/gameForca.git`
+
+Todo o código será baixado em sua máquina, menos as bibliotecas, que deverão ser baixadas à parte.
+
+Deixo também meu Linkedin, caso alguem deseje entre em contato:
+
+<a href="https://www.linkedin.com/in/wesley-camelo-silva/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+Obs: Sugestões tambem podem ser enviadas. Pode criar um *issue* ou me chamar no Linkedin.
+ 
 
