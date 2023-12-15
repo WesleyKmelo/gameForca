@@ -47,7 +47,7 @@ Então, pra utilização dos métodos aqui descritos é necessário baixar antes
 ***
 Cabe lembrar que a técnica de *Webscrapping* nem sempre é segura pois ela se baseia em pesquisa por nomes e como os sites estão em constante evolução , pode ser que alguma hora o código possa quebrar.
 
-No caso deste aplicativo , as técnicas aqui demosntradas são usados apenas para fins didáticos.
+No caso deste aplicativo , as técnicas aqui demonstradas são usados apenas para fins didáticos.
 
 ***
 #### Download 
