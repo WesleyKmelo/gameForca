@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/wkmelo/Projetos/Java/gameForca/gson-2.10.1.jar",
+        "/home/wkmelo/Área de Trabalho/jsoup-1.17.1.jar"
+    ]
+}
